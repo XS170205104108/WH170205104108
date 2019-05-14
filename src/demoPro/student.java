@@ -6,6 +6,8 @@ public class student {
 	   
 	   student(){
 		   
+		   int age;
+		   
 	   }
 
 }
